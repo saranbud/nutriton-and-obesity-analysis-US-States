@@ -197,3 +197,84 @@ Results are labeled **Strong** (|r| ≥ 0.7), **Moderate** (|r| ≥ 0.4), or **W
 ## 👤 Author
 
 **Saranya** — [@saranbud](https://github.com/saranbud)
+
+
+---
+
+## 📊 Dashboard — The American Obesity Crisis: A State-by-State Analysis (2011–2024)
+
+Built with **Databricks Lakeflow Designer** | Source: CDC BRFSS | 110,000+ rows · 55 states/territories · 14 years (2011–2024)
+
+---
+
+### Panel 1 — National Overview
+
+**2024 National Obesity Rate: 34.2%**
+
+The opening panel sets the stage with two key visuals: a KPI counter showing the current national obesity rate, and a line chart tracking the national obesity trend from 2011 to 2024. The trend shows a steady, consistent rise from ~32% in 2011 to 34.2% in 2024 — confirming that obesity in America has been on an unbroken upward trajectory for over a decade.
+
+> 📸 *Screenshot placeholder — add image here*
+> 
+> `![Panel 1 - National Overview](screenshots/panel1_overview.png)`
+
+---
+
+### Panel 2 — U.S. Obesity Rate by State (2024)
+
+**Geographic breakdown + state rankings**
+
+The left side shows a **choropleth map** of the US with states shaded by obesity rate — darker red = higher obesity. The right side shows a ranked bar chart of all 55 states/territories with the national average (34.15%) marked as a reference line. West Virginia ranks highest; Hawaii ranks lowest. Midwest and Southern states cluster above the national average, while coastal states trend below it.
+
+> 📸 *Screenshot placeholder — add image here*
+>
+> `![Panel 2 - State Map](screenshots/panel2_state_map.png)`
+
+---
+
+### Panel 3 — Who Is Most At Risk?
+
+**Obesity rates broken down by sex and age group. Red line = national average (~33%).**
+
+Two bar charts reveal which demographic groups bear the highest burden:
+- **By Sex:** Males (~35%) have a significantly higher obesity rate than females (~30.5%), both measured against the 33.0% national average.
+- **By Age Group:** Middle-aged adults (45–54 and 55–64) have the highest rates (~37%), while the youngest group (18–24) has the lowest (~26%). Obesity risk rises sharply through middle age before declining slightly in the 65+ group.
+
+> 📸 *Screenshot placeholder — add image here*
+>
+> `![Panel 3 - Demographics](screenshots/panel3_demographics.png)`
+
+---
+
+### Panel 4 — Socioeconomic Factors
+
+**Obesity rates by education level and household income. Higher socioeconomic status is associated with lower obesity rates.**
+
+Two bar charts highlight the socioeconomic gradient of obesity:
+- **By Education:** College graduates have the lowest obesity rate (~31%), noticeably below the national average. All other groups (Less than high school, Some college, High school graduate) cluster near or above the national average at ~33–34%.
+- **By Income:** The pattern is less dramatic but still present — the $75,000+ income group shows the lowest obesity rate, while middle-income brackets ($35,000–$74,999) show the highest. Lower economic access to healthy food and exercise likely drives this relationship.
+
+> 📸 *Screenshot placeholder — add image here*
+>
+> `![Panel 4 - Socioeconomic Factors](screenshots/panel4_socioeconomic.png)`
+
+---
+
+### Panel 5 — Racial & Ethnic Disparities
+
+**Average obesity rates by race/ethnicity across all states.**
+
+A horizontal bar chart reveals stark disparities across racial and ethnic groups:
+- **Non-Hispanic Black** (~35.5%) and **NH Hawaiian/Pacific Islander** (~35%) face the highest obesity burden — both significantly above the national average.
+- **NH American Indian/Alaska Native** and **Hispanic** populations also exceed the national average.
+- **Non-Hispanic White** and **Non-Hispanic Other** sit near the national average.
+- **Non-Hispanic Asian** has the lowest rate by a wide margin (~27%), well below all other groups.
+
+These disparities reflect systemic inequities in access to healthcare, food environments, and economic opportunities across communities.
+
+> 📸 *Screenshot placeholder — add image here*
+>
+> `![Panel 5 - Racial & Ethnic Disparities](screenshots/panel5_racial.png)`
+
+---
+
+> 💡 **To add screenshots:** Upload your images to a `screenshots/` folder in this repo and replace the placeholder paths above with the actual filenames.
