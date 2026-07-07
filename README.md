@@ -213,9 +213,7 @@ Built with **Databricks Lakeflow Designer** | Source: CDC BRFSS | 110,000+ rows 
 
 The opening panel sets the stage with two key visuals: a KPI counter showing the current national obesity rate, and a line chart tracking the national obesity trend from 2011 to 2024. The trend shows a steady, consistent rise from ~32% in 2011 to 34.2% in 2024 — confirming that obesity in America has been on an unbroken upward trajectory for over a decade.
 
-> 📸 *Screenshot placeholder — add image here*
-> 
-> `![Panel 1 - National Overview](screenshots/panel1_overview.png)`
+> <img width="1867" height="741" alt="image" src="https://github.com/user-attachments/assets/fab8b1b5-eba1-43a2-b865-270e9b55ca9b" />
 
 ---
 
@@ -225,9 +223,8 @@ The opening panel sets the stage with two key visuals: a KPI counter showing the
 
 The left side shows a **choropleth map** of the US with states shaded by obesity rate — darker red = higher obesity. The right side shows a ranked bar chart of all 55 states/territories with the national average (34.15%) marked as a reference line. West Virginia ranks highest; Hawaii ranks lowest. Midwest and Southern states cluster above the national average, while coastal states trend below it.
 
-> 📸 *Screenshot placeholder — add image here*
->
-> `![Panel 2 - State Map](screenshots/panel2_state_map.png)`
+> <img width="1881" height="731" alt="image" src="https://github.com/user-attachments/assets/5dabe194-03fd-4366-8e8b-f573d67d99c0" />
+
 
 ---
 
@@ -239,9 +236,7 @@ Two bar charts reveal which demographic groups bear the highest burden:
 - **By Sex:** Males (~35%) have a significantly higher obesity rate than females (~30.5%), both measured against the 33.0% national average.
 - **By Age Group:** Middle-aged adults (45–54 and 55–64) have the highest rates (~37%), while the youngest group (18–24) has the lowest (~26%). Obesity risk rises sharply through middle age before declining slightly in the 65+ group.
 
-> 📸 *Screenshot placeholder — add image here*
->
-> `![Panel 3 - Demographics](screenshots/panel3_demographics.png)`
+> <img width="1886" height="750" alt="image" src="https://github.com/user-attachments/assets/eafc7946-f9fb-40cc-96ac-fdbb23edb1ce" />
 
 ---
 
@@ -253,9 +248,8 @@ Two bar charts highlight the socioeconomic gradient of obesity:
 - **By Education:** College graduates have the lowest obesity rate (~31%), noticeably below the national average. All other groups (Less than high school, Some college, High school graduate) cluster near or above the national average at ~33–34%.
 - **By Income:** The pattern is less dramatic but still present — the $75,000+ income group shows the lowest obesity rate, while middle-income brackets ($35,000–$74,999) show the highest. Lower economic access to healthy food and exercise likely drives this relationship.
 
-> 📸 *Screenshot placeholder — add image here*
->
-> `![Panel 4 - Socioeconomic Factors](screenshots/panel4_socioeconomic.png)`
+> <img width="1880" height="737" alt="image" src="https://github.com/user-attachments/assets/22b52778-b751-43a2-ba6c-0eb9ac632dc1" />
+
 
 ---
 
@@ -271,10 +265,6 @@ A horizontal bar chart reveals stark disparities across racial and ethnic groups
 
 These disparities reflect systemic inequities in access to healthcare, food environments, and economic opportunities across communities.
 
-> 📸 *Screenshot placeholder — add image here*
->
-> `![Panel 5 - Racial & Ethnic Disparities](screenshots/panel5_racial.png)`
+> <img width="1880" height="737" alt="image" src="https://github.com/user-attachments/assets/f810f9cd-ab83-43fe-81ad-ce66ca555d72" />
 
----
 
-> 💡 **To add screenshots:** Upload your images to a `screenshots/` folder in this repo and replace the placeholder paths above with the actual filenames.
