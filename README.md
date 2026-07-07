@@ -265,6 +265,7 @@ A horizontal bar chart reveals stark disparities across racial and ethnic groups
 
 These disparities reflect systemic inequities in access to healthcare, food environments, and economic opportunities across communities.
 
-> <img width="1880" height="737" alt="image" src="https://github.com/user-attachments/assets/f810f9cd-ab83-43fe-81ad-ce66ca555d72" />
+> <img width="1855" height="777" alt="image" src="https://github.com/user-attachments/assets/d76dbe3e-e35d-4d9e-858d-dde7a21203d4" />
+
 
 
